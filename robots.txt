@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://darkshod.github.io/grimora11-gifts/sitemap.xml
